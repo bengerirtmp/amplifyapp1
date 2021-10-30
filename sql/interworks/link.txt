@@ -1,0 +1,3 @@
+https://interworks.com/blog/2021/08/16/hands-on-snowflake-how-to-implement-row-level-security-using-data-control-tables/
+about docker running python and snowflake
+https://interworks.com/blog/2020/08/27/introducing-the-snowflake-data-cloud-data-applications/
